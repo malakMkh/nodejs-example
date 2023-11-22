@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "Malak"
+Simple node.js app that server
 
 Great for testing simple deployments on Cloud
 
